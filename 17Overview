@@ -1,0 +1,52 @@
+<html Lang="en">
+<head>
+  <title>Dropdown Menu</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+</head>
+  <body>
+    
+    <!------------------------------------>
+    <header>
+      <a href="index.html" class="Logo">My Logo</a>
+      <div class="menuToggle"></div>
+      <nav>
+        <ul>
+          <li><a href="15Overview.html">15 - 17 Years Old</a>
+            <ul>
+              <li><a href="#">Permit Test</a></li>
+              <li><a href="#">Behind The Wheel Test</a></li>
+              <li><a href="#">Probation Period</a></li>
+            </ul>
+          </li>
+          <li><a href="#">17+ Years Old</a>
+            <ul>
+              <li><a href="#">Permit Test</a></li>
+              <li><a href="#">Behind The Wheel Test</a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <!---------------------------------->
+    
+     <div class="first" style="background-image: url(https://www.shutterstock.com/image-photo/low-angle-twilight-view-empty-600nw-1131409013.jpg);"> <div class=" color-overlay">
+       <h1 class="hero">License Process:<br>17+ Years Old</br></h1>
+    </div></div>
+  <!------------------------------------------>
+
+  <h1 id="overview">Overview</h1>
+  <h3 class="paragraph">Getting your driver's license is a vital skill. It allows people to operate a class C vehicle. Also, your license can symbolize a new beginning. The small identification carries a responsibility befitting young adults. For teenagers, this is an important step in growing up. That's where we come in! The steps to obtaining your driver's license in California are tedious and confusing. With our guidance, we strive to simplify the process so you can focus on your big moment. Click the link above to get started!</h3>
+<!----------------------------------------->
+  <h4> hi</h4>
+  
+    <script>
+      var menuToggle = document.querySelector('.menuToggle');
+      var header = document.querySelector('header');
+      menuToggle.onclick = function(){
+        header.classList.toggle('active');
+      }
+    </script>
+  </body>
+</html>
