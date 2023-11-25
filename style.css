@@ -199,5 +199,21 @@ h4{
   position: relative;
   top: 185px;
   border-bottom: 7px dashed rgb(255,255,93);
+  
 }
 /*---------------------------------------------*/
+ul{
+  list-style-type: none;
+}
+.list{
+  color: rgb(224,194,58);
+}
+.pink{
+  text-align: center;
+  position: relative;
+  top: 80px;
+}
+#vision{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
