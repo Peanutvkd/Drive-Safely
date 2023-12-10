@@ -294,7 +294,8 @@ header.Yas ul li ul li{
   padding-right: calc(1.025rem + 4.3vw);
   padding-bottom: 50px;
   font-size: calc(.925rem + .3vw);
-  color: rgb(56,56,56);}
+  color: rgb(56,56,56);
+}
 
 /*-----------------------------------------*/
 .body{
