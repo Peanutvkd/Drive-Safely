@@ -264,9 +264,10 @@ margin-top: 15%;
 #overview{
   z-index: 2;
   position: relative;
-  top: 10px;
+  top: 0px;
   text-align: center;
-  font-size: calc(1.725rem + 2.3vw);;
+  margin-top: -10px; 
+  font-size: calc(1.725rem + 2.3vw);
   color: rgb(224,194,58);
   text-decoration: underline;
 }
