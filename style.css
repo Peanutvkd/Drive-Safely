@@ -264,10 +264,6 @@ margin-top: 15%;
   margin-top: calc(20% - 39%);
   };
 }
-@media(max-width: 900px){
-  .other{
-  margin-top: calc(20% - 24%);
-  };}
 
 @media(max-width: 605px){
   .other{
