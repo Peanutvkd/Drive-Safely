@@ -242,8 +242,8 @@ header.Yas ul li ul li{
 }
 .wrapper .card{
   width: calc(50% - 20px);
-  margin-bottom: 20px; 
-  margin-top: 40px;
+  margin-bottom: 10px; 
+  margin-top: 60px;
 }
 @media (max-width: 505px){
   .wrapper{
