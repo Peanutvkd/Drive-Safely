@@ -172,7 +172,7 @@ header.Yas ul li ul li{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  padding: 10px;
+  padding: 20px;
   font-family: 'Poppins', sans-serif;
   position: relative;
   top: 20px;
@@ -268,7 +268,7 @@ header.Yas ul li ul li{
 #overview1{
   z-index: 2;
   position: relative;
-  top: 0px;
+  top: 20px;
   text-align: center;
   font-size: calc(1.725rem + 2.3vw);;
   color: rgb(224,194,58);
@@ -288,7 +288,7 @@ header.Yas ul li ul li{
 .paragraph1{
   z-index:2;
   position: relative;
-  top: 50px;
+  top: 30px;
   text-align: center;
   padding-left: calc(1.025rem + 4.3vw);
   padding-right: calc(1.025rem + 4.3vw);
