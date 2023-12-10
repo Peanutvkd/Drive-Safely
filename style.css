@@ -1,5 +1,3 @@
-
-
 /*----------------------------------------*/
 *{
   margin: 0;
@@ -161,7 +159,7 @@ header.Yas ul li ul li{
   }
   .hero{
     text-align: center;
-    font-size: calc(1.525rem + 3.3vw);
+    font-size: calc(1.525rem + 2.1vw);
   }
 }
 /*------------------------------------------------*/
@@ -240,7 +238,7 @@ header.Yas ul li ul li{
 }
 @media (max-width: 855px){
   .wrapper{max-width: 700px;}
-  #percentage{margin-top: calc(20% - 19%);}
+  #percentage{margin-top: calc(20% - 17%);}
 }
 
 .wrapper .card{
@@ -256,24 +254,24 @@ header.Yas ul li ul li{
     width: 100%;
   }
   #percentage{
-margin-top: 10%;
+margin-top: 12%;
   }
 }
 
 /*-------------------------------------------------*/
-@media(max-width: 1280px){
+@media(max-width: 1280px, min-height: 600px){
    .other{
-  margin-top: calc(20% - 38%);
+  margin-top: calc(20% - 35%);
   };
 }
-@media(max-width: 900px){
+@media(max-width: 900px, min-height: 400px){
   .other{
-  margin-top: calc(20% - 30%);
+  margin-top: calc(20% - 21%);
   };}
 
 @media(max-width: 605px){
   .other{
-  margin-top: calc(20% - 22%);
+  margin-top: calc(20% - 25%);
   };}
 
 /*--------------------------------------------------*/
@@ -380,8 +378,6 @@ main.row{
     margin-top: 30px;
   }
 }
-
-/*-----------------------------------------*/
 .bibliography{
   text-align: center;
   margin-bottom: 0px;
