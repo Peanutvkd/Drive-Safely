@@ -259,12 +259,12 @@ margin-top: 15%;
 }
 
 /*-------------------------------------------------*/
-@media(max-width: 1280px, min-height: 600px){
+@media(max-width: 1280px){
    .other{
   margin-top: calc(20% - 39%);
   };
 }
-@media(max-width: 900px, min-height: 400px){
+@media(max-width: 900px){
   .other{
   margin-top: calc(20% - 28%);
   };}
