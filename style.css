@@ -174,8 +174,6 @@ header.Yas ul li ul li{
   min-height: 100vh;
   padding: 20px;
   font-family: 'Poppins', sans-serif;
-  position: relative;
-  top: calc(1.025rem + 3.3vw);
 }
 .wrapper{
   width: 800px;
