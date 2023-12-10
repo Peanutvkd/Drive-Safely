@@ -175,7 +175,7 @@ header.Yas ul li ul li{
   padding: 20px;
   font-family: 'Poppins', sans-serif;
   position: relative;
-  top: calc(1.025rem + 4.3vw);
+  top: calc(1.025rem + 3.3vw);
 }
 .wrapper{
   width: 800px;
@@ -244,7 +244,8 @@ header.Yas ul li ul li{
 }
 .wrapper .card{
   width: calc(50% - 20px);
-  margin-bottom: 20px;  
+  margin-bottom: 20px; 
+  margin-top: 20px;
 }
 @media (max-width: 505px){
   .wrapper{
@@ -266,30 +267,10 @@ header.Yas ul li ul li{
   color: rgb(224,194,58);
   text-decoration: underline;
 }
-#overview1{
-  z-index: 2;
-  position: relative;
-  top: 20px;
-  text-align: center;
-  font-size: calc(1.725rem + 2.3vw);;
-  color: rgb(224,194,58);
-  text-decoration: underline;
-}
 .paragraph{
   z-index:2;
   position: relative;
   top: 110px;
-  text-align: center;
-  padding-left: calc(1.025rem + 4.3vw);
-  padding-right: calc(1.025rem + 4.3vw);
-  padding-bottom: 50px;
-  font-size: calc(.925rem + .3vw);
-  color: rgb(56,56,56);
-}
-.paragraph1{
-  z-index:2;
-  position: relative;
-  top: 30px;
   text-align: center;
   padding-left: calc(1.025rem + 4.3vw);
   padding-right: calc(1.025rem + 4.3vw);
