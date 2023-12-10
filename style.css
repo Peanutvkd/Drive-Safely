@@ -266,7 +266,7 @@ margin-top: 15%;
 }
 @media(max-width: 900px){
   .other{
-  margin-top: calc(20% - 28%);
+  margin-top: calc(20% - 24%);
   };}
 
 @media(max-width: 605px){
