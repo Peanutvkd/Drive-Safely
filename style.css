@@ -262,7 +262,9 @@ margin-top: 15%;
 }
 
 /*-------------------------------------------------*/
-
+.other{
+  margin-top: -20px;
+}
 @media (max-width: 605px){
   .other{margin-top: 20px;}
 }
