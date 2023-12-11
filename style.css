@@ -239,8 +239,7 @@ header.Yas ul li ul li{
 }
 @media (max-width: 855px){
   .wrapper{max-width: 700px;}
-  #percentage{margin-top: calc(20% - 17%);
-             margin-bottom: calc(17% - 23%);} 
+  #percentage{margin-top: calc(20% - 17%);} 
 }
 
 .wrapper .card{
@@ -263,7 +262,7 @@ margin-top: 15%;
 /*-------------------------------------------------*/
 
 @media (max-width: 855px){
-  .other{margin-bottom: -20px;}
+  .other{margin-bottom: 0px;}
 @media (max-width: 605px){
   .other{margin-top: 20px;}
 }
