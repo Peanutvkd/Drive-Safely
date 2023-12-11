@@ -293,7 +293,7 @@ margin-top: 15%;
 .other #overview_home{
   z-index: 3;
   position: relative;
-  top: 20px;
+  top: -20px;
   text-align: center; 
   font-size: calc(1.725rem + 2.3vw);
   color: rgb(224,194,58);
