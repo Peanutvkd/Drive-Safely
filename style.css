@@ -416,7 +416,7 @@ body{
 .bottom-border{
   color: rgb(102,102,102);
   position: relative;
-  top: 70px;
+  top: 90px;
   border-bottom: 7px dashed rgb(255,255,93);
 }
 /*---------------------------------------------*/
