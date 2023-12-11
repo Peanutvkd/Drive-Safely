@@ -262,13 +262,15 @@ margin-top: 15%;
 }
 
 /*-------------------------------------------------*/
- 
+
+
 .other{
-  position: absolute;
-  top: calc(900px - 20%);
+  z-index: 10;
+  position: relative;
+  top: 900px;
 }
 @media (max-width: 605px){
-  .other{top: calc(1000px - 20%);}
+  .other{margin-top: 20px;}
 }
 
 /*--------------------------------------------------*/
@@ -410,15 +412,17 @@ main.row{
 }
 /*------------------------------------------*/
 
+body{
+  padding-bottom: 70px;
+  border-bottom: 65px solid;
+  color: rgb(102,102,102);
+}
 .bottom-border{
   color: rgb(102,102,102);
   position: relative;
   top: 110px;
   border-bottom: 7px dashed rgb(255,255,93);
-  margin: 30px;
-  background-color: rgb(98,98,98);
 }
-
 /*---------------------------------------------*/
 
 /*---------------------------------------------*/
