@@ -266,7 +266,7 @@ margin-top: 15%;
 
 .other{
   position: absolute;
-  top: 150px;
+  top: 290px;
 }
 @media (max-width: 605px){
   .other{margin-top: 20px;}
