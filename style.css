@@ -261,9 +261,17 @@ margin-top: 15%;
 }
 
 /*-------------------------------------------------*/
+@media(max-width: 855px){
+  .other{margin-top: -20px;}
+}
+
+@media (max-width: 605px){
+  .other{margin-top: 20px;}
+}
+
 /*--------------------------------------------------*/
 #overview{
-  z-index: 2;
+  z-index: 3;
   position: relative;
   top: 0px;
   text-align: center;
