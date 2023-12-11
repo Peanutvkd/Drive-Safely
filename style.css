@@ -255,14 +255,11 @@ header.Yas ul li ul li{
   }
   #percentage{
 margin-top: 15%;
-    
   }
 }
 
 /*-------------------------------------------------*/
 
-@media (max-width: 855px){
-  .other{margin-top: 0px;}
 @media (max-width: 605px){
   .other{margin-top: 20px;}
 }
