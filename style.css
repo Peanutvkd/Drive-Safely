@@ -266,7 +266,7 @@ margin-top: 15%;
 
 .other{
   z-index: 10;
-  margin-top: -70px;
+  margin-top: -90px;
 }
 @media (max-width: 605px){
   .other{margin-top: 20px;}
