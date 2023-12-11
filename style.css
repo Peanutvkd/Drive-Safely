@@ -260,7 +260,7 @@ margin-top: 15%;
 }
 
 /*-------------------------------------------------*/
-@media(max-width: 855px){
+@media(max-width: 1250px){
   .other{margin-top: calc(10% - 30%);}
 }
 
