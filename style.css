@@ -266,7 +266,7 @@ margin-top: 15%;
 
 .other:before{
   position: absolute;
-  margin-top: -20px;
+  margin-top: -70px;
 }
 @media (max-width: 605px){
   .other{margin-top: 20px;}
