@@ -273,9 +273,8 @@ margin-top: 15%;
 #overview{
   z-index: 3;
   position: relative;
-  top: 0px;
-  text-align: center;
-  margin-top: -10px; 
+  top: 20px;
+  text-align: center; 
   font-size: calc(1.725rem + 2.3vw);
   color: rgb(224,194,58);
   text-decoration: underline;
