@@ -290,7 +290,7 @@ margin-top: 15%;
   font-size: calc(.925rem + .3vw);
   color: rgb(56,56,56);
 }
-#overview_home{
+.other #overview_home{
   z-index: 3;
   position: relative;
   top: 20px;
@@ -299,7 +299,7 @@ margin-top: 15%;
   color: rgb(224,194,58);
   text-decoration: underline;
 }
-.paragraph_home{
+.other .paragraph_home{
   z-index: 2;
   position: relative;
   top: 60px;
