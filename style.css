@@ -262,7 +262,7 @@ margin-top: 15%;
 /*-------------------------------------------------*/
 .other{
   position: relative;
-  top: -20px;
+  margin-top: -30px;
 }
 
 @media (max-width: 605px){
