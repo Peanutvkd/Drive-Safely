@@ -264,7 +264,7 @@ margin-top: 15%;
 /*-------------------------------------------------*/
 
 
-.other:before{
+.other{
   position: absolute;
   margin-top: -70px;
 }
