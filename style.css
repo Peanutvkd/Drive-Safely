@@ -280,7 +280,7 @@ margin-top: 15%;
   text-decoration: underline;
 }
 .paragraph{
-  z-index:2;
+  z-index: 3;
   position: relative;
   top: 110px;
   text-align: center;
@@ -301,7 +301,7 @@ margin-top: 15%;
   text-decoration: underline;
 }
 .other .paragraph_home{
-  z-index: 2;
+  z-index: 3;
   position: relative;
   top: 5px;
   text-align: center;
