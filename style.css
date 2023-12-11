@@ -303,7 +303,7 @@ margin-top: 15%;
 .other .paragraph_home{
   z-index: 3;
   position: relative;
-  top: 30px;
+  top: 20px;
   text-align: center;
   padding-left: calc(1.025rem + 4.3vw);
   padding-right: calc(1.025rem + 4.3vw);
