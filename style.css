@@ -303,11 +303,11 @@ margin-top: 15%;
 .other .paragraph_home{
   z-index: 3;
   position: relative;
-  top: 60px;
+  top: 30px;
   text-align: center;
   padding-left: calc(1.025rem + 4.3vw);
   padding-right: calc(1.025rem + 4.3vw);
-  padding-bottom: 60px;
+  padding-bottom: 10px;
   margin-bottom: 20px;
   margin-top: 20px;
   font-size: calc(.925rem + .3vw);
