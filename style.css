@@ -396,7 +396,16 @@ text-align: center;}
       margin-bottom: 250px;
       margin-top: 110px;
     }
-    
+      .h2 {
+        font-weight: 900;
+      font-size: calc(1.725rem + 2.3vw);
+        text-decoration: underline;
+        text-align: center;
+        color: rgb(224,194,58);
+        padding: 10px;
+      margin-bottom: 200px;
+      margin-top: 110px;
+    }
     .tr:hover {
         background-color: #f5f5f5;
         transform: scale(1.02);
@@ -410,6 +419,9 @@ text-align: center;}
         }
       .h1{
         margin-bottom: 370px;
+      }
+       .h2{
+        margin-bottom: 240px;
       }
     }
 
