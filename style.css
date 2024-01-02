@@ -531,6 +531,7 @@ text-align: center;}
 
 #overview{
   z-index: 3;
+  position: relative;
   top: 90px;
   text-align: center; 
   font-size: calc(1.725rem + 2.3vw);
@@ -539,6 +540,7 @@ text-align: center;}
 }
 .paragraph{
   z-index: 3;
+  position: relative;
   top: 110px;
   text-align: center;
   padding-left: calc(1.025rem + 4.3vw);
