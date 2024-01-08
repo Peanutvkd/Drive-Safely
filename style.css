@@ -515,14 +515,12 @@ text-align: center;}
     }
 
     @media only screen and (max-width: 468px) {
-      .move{
-      margin-bottom: 40px;}
-      .table3 {
+        .table3 {
             width: 90%;
-        margin-top: 30px;
+           transform: translate(-50%, -90%);
         }
       .h1{
-        margin-bottom: 410px;
+        margin-bottom: 370px;
       }
        .h2{
         margin-bottom: 240px;
