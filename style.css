@@ -517,7 +517,7 @@ text-align: center;}
     @media only screen and (max-width: 468px) {
         .table3 {
             width: 90%;
-           transform: translate(-50%, -90%);
+           transform: translate(-50%, -70%);
         }
       .h1{
         margin-bottom: 370px;
