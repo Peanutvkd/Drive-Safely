@@ -515,7 +515,9 @@ text-align: center;}
     }
 
     @media only screen and (max-width: 468px) {
-        .table3 {
+      .move{
+      margin-bottom: 20px;}
+      .table3 {
             width: 90%;
         margin-top: 30px;
         }
