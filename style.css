@@ -517,7 +517,19 @@ text-align: center;}
     @media only screen and (max-width: 468px) {
         .table3 {
             width: 90%;
-           transform: translate(-50%, -70%);
+           transform: translate(-50%, -90%);
+        }
+      .h1{
+        margin-bottom: 370px;
+      }
+       .h2{
+        margin-bottom: 240px;
+      }
+    }
+    @media only screen and (max-width: 388px) {
+        .table3 {
+            width: 90%;
+           transform: translate(-50%, -50%);
         }
       .h1{
         margin-bottom: 370px;
