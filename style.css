@@ -503,13 +503,13 @@ text-align: center;}
       }
     }
     @media only screen and (max-width: 468px) {
-      .move{padding-bottom: 70px;}  
+      .move{padding-bottom: 100px;}  
       .table3 {
             width: 90%;
            transform: translate(-50%, -70%);
         }
       .h1{
-            height: 600px;
+            height: 630px;
     padding-top: 100px;
       }
     }
