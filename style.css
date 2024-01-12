@@ -738,8 +738,8 @@ body{
     }
 /*--------------------------------------------------*/
 .move4{
-  margin-bottom: 300px;
-  items-align: center;
+  padding-bottom: 100px;
+  padding-top: 100px;
 }
 .table5 {
   width: 45%;
@@ -804,9 +804,8 @@ left: 50%;
     }
 /*--------------------------------------------------*/
 .move7{
-  margin-bottom: 300px;
-  margin-top: 15px;
-  items-align: center;
+padding-bottom: 100px;
+  padding-top: 100px;
 }
 .table7 {
   width: 90%;
@@ -874,9 +873,8 @@ left: 50%;
 
 
 .move9{
-  margin-bottom: 330px;
-  margin-top: 45px;
-  items-align: center;
+padding-bottom: 100px;
+  padding-top: 100px;
 }
 .table9 {
   width: 90%;
