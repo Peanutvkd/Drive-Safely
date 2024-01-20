@@ -806,7 +806,7 @@ body{
 /*--------------------------------------------------*/
 .move4{
   padding-bottom: 100px;
-  padding-top: 100px;
+  padding-top: 30px;
 }
 .table5 {
   width: 45%;
@@ -863,12 +863,7 @@ left: 50%;
         transform: scale(1.02);
         box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2), -1px -1px 8px rgba(0, 0, 0, 0.2);
     }
-    
-    @media only screen and (max-width: 768px) {
-      .h4{
-        margin-bottom: 190px;
-      }
-    }
+
 /*--------------------------------------------------*/
 .move7{
 padding-bottom: 100px;
