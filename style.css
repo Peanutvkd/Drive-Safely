@@ -1112,7 +1112,7 @@ left: 50%;
         text-align: center;
         color: rgb(224,194,58);
         padding: 10px;
-      margin-bottom: 320px;
+      margin-bottom: 400px;
     }
     
     .tr:hover {
@@ -1122,12 +1122,15 @@ left: 50%;
     }
     @media only screen and (max-width: 370px) {
       .h12{
-        margin-bottom: 490px;
+        margin-bottom: 600px;
+      }
+        .move12{
+        padding-bottom: 100px;
       }
     }
 /*--------------------------------------------------*/
 .move13{
-  padding-bottom: 100px;
+  padding-bottom: 150px;
   padding-top: 60px;
 }
 .table13 {
@@ -1175,7 +1178,7 @@ left: 50%;
     }
      @media only screen and (max-width: 470px) {
       .h13{
-        margin-bottom: 490px;
+        margin-bottom: 590px;
       }
       .move13{
         padding-bottom: 200px;
