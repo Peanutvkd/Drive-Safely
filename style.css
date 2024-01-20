@@ -1122,7 +1122,7 @@ left: 50%;
     }
     @media only screen and (max-width: 370px) {
       .h12{
-        margin-bottom: 600px;
+        margin-bottom: 750px;
       }
         .move12{
         padding-bottom: 100px;
@@ -1178,10 +1178,10 @@ left: 50%;
     }
      @media only screen and (max-width: 470px) {
       .h13{
-        margin-bottom: 590px;
+        margin-bottom: 790px;
       }
       .move13{
-        padding-bottom: 200px;
+        padding-bottom: 300px;
       }
     }
 /*--------------------------------------------------*/
