@@ -867,7 +867,7 @@ left: 50%;
 /*--------------------------------------------------*/
 .move7{
 padding-bottom: 100px;
-  padding-top: 100px;
+  padding-top: 30px;
 }
 .table7 {
   width: 90%;
@@ -913,23 +913,7 @@ left: 50%;
         transform: scale(1.02);
         box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2), -1px -1px 8px rgba(0, 0, 0, 0.2);
     }
-        @media only screen and (max-width: 768px) {
-      .h7{
-        margin-bottom: 190px;
-      }
-      .move7{
-          margin-bottom: 290px;
-          margin-top: 50px;
-      }
-    }
-    @media only screen and (max-width: 468px) {
-      .h7{
-        margin-bottom: 190px;
-      }
-      .move7{
-          margin-top: 50px;
-      }
-    }
+
 /*---------------------------------------------*/
 
 
