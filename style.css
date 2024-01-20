@@ -554,6 +554,8 @@ left: 50%;
         text-align: center;
         color: rgb(224,194,58);
         padding: 10px;
+        margin-bottom: 200px;
+      margin-top: -20px;
     }
     
     .tr:hover {
