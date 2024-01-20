@@ -902,7 +902,7 @@ left: 50%;
 
 
 .move9{
-padding-bottom: 100px;
+padding-bottom: 200px;
   padding-top: 100px;
 }
 .table9 {
@@ -949,21 +949,13 @@ left: 50%;
         transform: scale(1.02);
         box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2), -1px -1px 8px rgba(0, 0, 0, 0.2);
     }
-        @media only screen and (max-width: 768px) {
-      .h9{
-        margin-bottom: 240px;
-      }
-      .move9{
-          margin-bottom: 350px;
-          margin-top: 40px;
-      }
-    }
     @media only screen and (max-width: 498px) {
       .h9{
-        margin-bottom: 190px;
+        margin-bottom: 200px;
       }
       .move9{
-          margin-top: 150px;
+  padding-bottom: 60px;
+  padding-top: 100px;
       }
     }
 /*--------------------------------------------------*/
