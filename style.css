@@ -1020,7 +1020,7 @@ left: 50%;
 
 .move11{
 padding-bottom: 80px;
-  padding-top: 90px;
+  padding-top: 50px;
 }
 .table11 {
   width: 90%;
@@ -1069,7 +1069,7 @@ left: 50%;
    @media only screen and (max-width: 498px) {
       .move11{
 padding-bottom: 380px;
-  padding-top:  300px;
+  padding-top:  420px;
       }
     }
 /*--------------------------------------------------*/
