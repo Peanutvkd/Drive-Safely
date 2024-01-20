@@ -1019,8 +1019,8 @@ left: 50%;
 /*--------------------------------------------------*/
 
 .move11{
-padding-bottom: 100px;
-  padding-top: 100px;
+padding-bottom: 200px;
+  padding-top: 200px;
 }
 .table11 {
   width: 90%;
@@ -1066,51 +1066,7 @@ left: 50%;
         transform: scale(1.02);
         box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2), -1px -1px 8px rgba(0, 0, 0, 0.2);
     }
-        @media only screen and (max-width: 768px) {
-      .h11{
-        margin-bottom: 190px;
-      }
-      .move11{
-          margin-bottom: 340px;
-          margin-top: 90px;
-      }
-    }
-    @media only screen and (max-width: 535px) {
-      .h11{
-        margin-bottom: 190px;
-      }
-      .move11{
-          margin-bottom: 350px;
-          margin-top: 170px;
-      }
-    }
-    @media only screen and (max-width: 410px) {
-      .h11{
-        margin-bottom: 190px;
-      }
-      .move11{
-          margin-bottom: 390px;
-          margin-top: 260px;
-      }
-    }
-    @media only screen and (max-width: 370px) {
-      .h11{
-        margin-bottom: 190px;
-      }
-      .move11{
-          margin-bottom: 470px;
-          margin-top: 375px;
-      }
-    }
-    @media only screen and (max-width: 315px) {
-      .h11{
-        margin-bottom: 190px;
-      }
-      .move11{
-          margin-bottom: 550px;
-          margin-top: 510px;
-      }
-    }
+ 
 /*--------------------------------------------------*/
 .move12{
 padding-bottom: 100px;
